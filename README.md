@@ -1,2 +1,3 @@
 # hello-world
 Trying new staff as a hobby...
+The hard start... its always difficult to start smth new.
